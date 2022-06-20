@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "D:\Documents\GitHub\python\run-python-scripts.bat", 0, True

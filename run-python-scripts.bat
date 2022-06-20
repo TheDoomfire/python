@@ -1,3 +1,3 @@
 set pythonfile == "C:\Python39\python.exe"
 
-run %pythonfile%
+%pythonfile% "open-website.py"
